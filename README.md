@@ -54,3 +54,11 @@ Python (Pandas, NumPy, Matplotlib)
 
 * Como executar o projeto:
 pip install pandas numpy matplotlib
+
+## 📊 Funil de Conversão
+
+![Funil](imagens/funil.png)
+
+## 📈 Distribuição de Acessos
+
+![Acessos](imagens/acessos.png)
