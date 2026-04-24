@@ -51,3 +51,6 @@ Aumentar o uso recorrente do produto é a principal alavanca para melhorar a con
 
 * Ferramentas Utilizadas:
 Python (Pandas, NumPy, Matplotlib)
+
+* Como executar o projeto:
+pip install pandas numpy matplotlib
